@@ -1,9 +1,10 @@
 # pgweb-acara1
 Perencanaan produk web GIS dan Git 
 
-Nama:
+Nama   :Fani Aisyah
 
-NIM:
-Kelas:
+NIM    :22/493988/SV/20769
+
+Kelas  :A
 
 ![Avatar](image/images.png)
