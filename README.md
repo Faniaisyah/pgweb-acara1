@@ -5,6 +5,6 @@ Nama   :Fani Aisyah
 
 NIM    :22/493988/SV/20769
 
-Kelas  :A
+KelasS  :A
 
 ![Avatar](image/images.png)
