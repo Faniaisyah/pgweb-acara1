@@ -33,9 +33,5 @@ Buka berkas "index.html" di peramban web Anda untuk melihat peta interaktif.
 - Leaflet.js: Pustaka JavaScript untuk membangun peta interaktif.
 - HTML: Bahasa markup untuk struktur halaman web.
 
-## Lisensi
 
-[MIT License](LICENSE)
-
-Dibuat dengan ❤️ oleh [Nama Anda]
 
