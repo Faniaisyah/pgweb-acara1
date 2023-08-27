@@ -10,7 +10,7 @@ Perencanaan produk web GIS dan Git
             <p><strong>Nama:</strong> Fani Aisyah</p>
             <p><strong>NIM:</strong> 22/493988/SV/20769</p>
             <p><strong>Kelas:</strong> A</p>
-![Avatar](image/images.png)
+![Avatar](image/MapGIS.png)
 
 
 # GeoConnect: Menghubungkan Lokasi dengan Sistem Informasi Geografis Berbasis Web
